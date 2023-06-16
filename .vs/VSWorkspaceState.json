@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SQS-amazon",
+    "\\SQS-amazon\\SQS.Get_Queue",
+    "\\SQS-amazon\\SQS.Get_Queue\\bin"
+  ],
+  "PreviewInSolutionExplorer": false
+}

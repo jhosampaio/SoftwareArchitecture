@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DCM/oz0+Zyk5N0v04dI/SovbD7sX4TMt6XWz773lVpp7a1VAGKGaXFeazVlecPAJY6FY4i4otBABjg4+pvIHfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\douglas.prado\\source\\repos\\SQS-amazon\\SQS.Get_Queue\\SQS.Get_Queue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\douglas.prado\\.nuget\\packages\\awssdk.core\\3.5.2.4\\awssdk.core.3.5.2.4.nupkg.sha512",
+    "C:\\Users\\douglas.prado\\.nuget\\packages\\awssdk.sqs\\3.5.1.14\\awssdk.sqs.3.5.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
